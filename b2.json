@@ -1,0 +1,9 @@
+{
+  "status": "ERROR",
+  "error_code": "EMPTY_DATA",
+  "analysis_steps": {
+    "step_1_input_check": "Phát hiện nội dung review chỉ chứa ký tự rác '...', vi phạm điều kiện hợp lệ.",
+    "step_2_sentiment": "N/A",
+    "step_3_category": "N/A"
+  }
+}
